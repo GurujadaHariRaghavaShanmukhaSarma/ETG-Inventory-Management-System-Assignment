@@ -14,7 +14,7 @@ I have added the following features for each product:
 My project can ask the user for the product id and quantity he want.If the product id exists and quantity entered is less than the existing quantity, then it can generate the
 bill amount and can update the inventory.                                             
 My project can also show the details of a customer if he buys something.                                     
-The details include his name and phone number.                                                   
+The details include his name,phone number,item purchased and quantity.                                                   
 If the product id entered by the user is not found, then my project will print a message like id not found and if entered quantity exceeds the existing quantity, 
 then it will print a message like not having that much quantity.
 # About Author
