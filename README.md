@@ -9,7 +9,7 @@ I have added the following features for each product:
 2.Quantity                                              
 3.Price                                                    
 4.Manufacturing Date                                      
-5.Expiry Date
+5.Expiry Date                                                   
 6.Warranty                                                
 My project can ask the user for the product id and quantity he want.If the product id exists and quantity entered is less than the existing quantity,it can generate the
 bill amount and can update the inventory.                                             
